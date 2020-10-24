@@ -1,0 +1,19 @@
+
+{
+  "products": [
+    {
+    "id": "Bla-bla-blubb",
+    "name": "Ghost sdkjsad",
+    "details": "adhakaddsakjdhajdgdkagfzguzwgdzdgoqiudhia hasdhadahdadd adadas d  ah dad akdg kd as ",
+    "price": "$39.99",
+    "image": "https://firebasestorage.googleapis.com/v0/b/wwear-79aea.appspot.com/o/TSnew.png?alt=media&token=a8471330-3cc4-4ebe-a76b-94c66c11670c"
+    },
+    {
+    "id": "Hellow-blabb-blubb",
+    "name": "Ghost sdkjsad",
+    "details": "adhakaddsakjdhajdgdkagfzguzwgdzdgoqiudhia hasdhadahdadd adadas d  ah dad akdg kd as ",
+    "price": "$39.99",
+    "image": "https://firebasestorage.googleapis.com/v0/b/wwear-79aea.appspot.com/o/TSnew.png?alt=media&token=a8471330-3cc4-4ebe-a76b-94c66c11670c"
+    }
+  ]
+}
